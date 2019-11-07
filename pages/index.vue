@@ -3,10 +3,10 @@
     <div>
       <logo />
       <h1 class="title">
-        trieuducthai.github.io
+        TDT Blog
       </h1>
       <h2 class="subtitle">
-        My geometric Nuxt.js project
+        The article on information technologies and share skills, knowledge of programming.
       </h2>
       <div class="links">
         <a
