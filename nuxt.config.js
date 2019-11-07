@@ -51,10 +51,4 @@ module.exports = {
     extend (config, ctx) {
     }
   },
-  /*
-  ** Router configuration
-  */
-  router: {
-    base: '/me/'
-  }
 }
